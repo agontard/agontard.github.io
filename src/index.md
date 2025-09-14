@@ -4,11 +4,7 @@ author: Antoine Gontard
 shortbio: PhD student in computer science
 description-meta: PhD student in computer science
 og-url: https://basicpage.github.io
-[//]: # (location: )
 email: antoine.gontard@inria.fr
-[//]: # (picture: img/profile.png
-picture-round: false
-side-by-side: true)
 pronouns: He/Him/Hi 👋
 og-picture: https://basicpage.github.io/img/profile.png
 github: agontard
@@ -17,7 +13,10 @@ footer: >-
   [basicpage template](https://github.com/basicpage/basicpage.github.io),
   made to be easy to use! 🎓
 ---
-
+[//]: # (location:
+picture: img/profile.png
+picture-round: false
+side-by-side: true)
 I am a PhD student in computer science at the [https://lmf.cnrs.fr/](Laboratoire Méthodes formelles), on the subject of translating Isabelle proofs to Rocq (or Lean), supervised by [https://blanqui.gitlabpages.inria.fr/](Frédéric Blanqui).
 
 # News
