@@ -39,6 +39,4 @@ I will be presenting work from my 2025 internship, "Automating alignments of HOL
 
 # Curriculum Vitae
 [my CV](files/CV.pdf) (in french)
-
-
-
+  
