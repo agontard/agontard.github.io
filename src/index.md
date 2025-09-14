@@ -26,7 +26,7 @@ I will be presenting work from my 2025 internship, "Automating alignments of HOL
 - 2021-2023 Master Logique Mathématiques et Fondements de l'Informatique (LMFI) (Université Paris Cité, Paris)  
 *Master's in Mathematical Logic and Foundations of Computer Science*
 - 2023-2024 Préparation à l'Agrégation externe de Mathématiques (Université Paris Cité, Paris)  
-*Preperation to the mathematics Agrégation, french national exam for secundary school teachers*
+*Preperation to the mathematics Agrégation, french national exam for secondary school teachers*
 
 # Teaching
 
@@ -39,3 +39,6 @@ I will be presenting work from my 2025 internship, "Automating alignments of HOL
 
 # Curriculum Vitae
 [my CV](files/CV.pdf) (in french)
+
+
+
