@@ -36,3 +36,6 @@ I will be presenting work from my 2025 internship, "Automating alignments of HOL
   + S1 exercise sessions of the [rewriting course](https://blanqui.gitlabpages.inria.fr/1-33.html) of the M1 MPR1 at ENS Paris Saclay  
     [TD1](files/1.pdf)
   + S2 (to be confirmed) Logic Project of the L3 Computer Science of ENS Paris Saclay
+
+# Curriculum Vitae
+[my CV](files/CV.pdf) (in french)
