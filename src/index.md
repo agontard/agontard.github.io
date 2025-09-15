@@ -3,10 +3,9 @@ title: Antoine Gontard Homepage
 author: Antoine Gontard
 shortbio: PhD student in computer science
 description-meta: PhD student in computer science
-og-url: https://basicpage.github.io
+og-url: https://agontard.github.io
 email: antoine.gontard@inria.fr
 pronouns: He/Him/Hi 👋
-og-picture: https://basicpage.github.io/img/profile.png
 github: agontard
 footer: >-
   Based on the
