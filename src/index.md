@@ -36,7 +36,7 @@ Presentation subject: "Automating alignments of HOL Light inductive types and re
   (classes for 2de GT and Tle STMG)
 - 2025-2026
   + S1 exercise sessions of the [rewriting course](https://blanqui.gitlabpages.inria.fr/1-33.html) of the M1 MPR1 at ENS Paris Saclay  
-    [TD1](files/1.pdf)  
+    [TD1](files/1.pdf) ([with solutions](files/1_solution.pdf))  
     [TD2](files/2.pdf)  
     [homework](files/hw25.pdf) (due 10/08)
   + S2 (to be confirmed) Logic Project of the L3 Computer Science of ENS Paris Saclay
