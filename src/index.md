@@ -16,7 +16,7 @@ footer: >-
 I am a PhD student in computer science at the [Laboratoire Méthodes formelles](https://lmf.cnrs.fr/) (LMF), on the subject of translating Isabelle proofs to Rocq (or Lean), supervised by [Frédéric Blanqui](https://blanqui.gitlabpages.inria.fr/).
 
 # News
-I will be presenting work from my 2025 internship at the [Rocqshop 2025](https://coq-workshop.gitlab.io/2025/)  
+I will be presenting work from my 2025 internship online at the [Rocqshop 2025](https://coq-workshop.gitlab.io/2025/)  
 Presentation subject: "Automating alignments of HOL Light inductive types and recursive functions in Rocq"
 
 # Education
